@@ -1,0 +1,29 @@
+Name: Club
+Cost: 500
+LDam: 1
+HDam: 5
+
+Name: Dirk
+Cost: 1000
+LDam: 2
+HDam: 7
+
+Name: Stilleto
+Cost: 1300
+LDam: 3
+HDam: 9
+
+Name: Sword
+Cost: 1500
+LDam: 5
+HDam: 10
+
+Name: Mace
+Cost: 2000
+LDam: 7
+HDam: 12
+
+Name: GSword
+Cost: 5000
+LDam: 15
+HDam: 30

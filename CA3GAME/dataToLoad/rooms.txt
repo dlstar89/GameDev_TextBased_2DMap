@@ -1,0 +1,71 @@
+Name: Tavern
+Type: homebase
+Width: 5
+Height: 5
+North: na
+South: Pit
+West: na
+East: na
+
+Name: Pit
+Type: danger
+Width: 7
+Height: 7
+North: Tavern
+South: Cemetary
+West: Lake
+East: Woods
+
+Name: Cemetary
+Type: danger
+Width: 8
+Height: 8
+North: Pit
+South: Cave
+West: na
+East: na
+
+Name: Cave
+Type: danger
+Width: 10
+Height: 10
+North: Cemetary
+South: na
+West: na
+East: na
+
+Name: Lake
+Type: danger
+Width: 9
+Height: 9
+North: na
+South: Cliff
+West: na
+East: Pit
+
+Name: Cliff
+Type: danger
+Width: 10
+Height: 10
+North: Lake
+South: na
+West: na
+East: na
+
+Name: Woods
+Type: danger
+Width: 6
+Height: 6
+North: Plane
+South: na
+West: Pit
+East: na
+
+Name: Plane
+Type: danger
+Width: 12
+Height: 12
+North: na
+South: Woods
+West: na
+East: na

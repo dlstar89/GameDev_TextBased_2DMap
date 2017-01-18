@@ -1,0 +1,47 @@
+Name: Zomby
+Type: Minion
+HP: 10
+MHP: 10
+Str: 3
+Acc: 1
+XP: 100
+Armour: 2
+Weapon: Claws
+MinDam: 2
+MaxDam: 4
+
+Name: Dog
+Type: Minion
+HP: 15
+MHP: 15
+Str: 4
+Acc: 3
+XP: 150
+Armour: 1
+Weapon: Jaws
+MinDam: 3
+MaxDam: 5
+
+Name: Dragon
+Type: Boss
+HP: 20
+MHP: 20
+Str: 5
+Acc: 4
+XP: 1000
+Armour: 3
+Weapon: UNKNOWN
+MinDam: 10
+MaxDam: 10
+
+Name: Snake
+Type: Minion
+HP: 12
+MHP: 12
+Str: 5
+Acc: 8
+XP: 150
+Armour: 1
+Weapon: Poisen
+MinDam: 4
+MaxDam: 8
